@@ -6,7 +6,7 @@ para melhor visualização do projeto, utilizar o link a seguir:
 https://provedor-de-hospedagem-zeta.vercel.app/
 
 # pagina home.
-![screencapture-provedor-de-hospedagem-home](https://github.com/WilliamSouzaTx/provedor-de-hospedagem/assets/118509267/9599025d-3f99-43af-963c-6dfaa37a52ba)
+![screencapture-127-0-0-7-5500-index-html-2023-06-13-07_45_31](https://github.com/WilliamSouzaTx/provedor-de-hospedagem/assets/118509267/295d4b77-2ac4-4a43-bfe0-1673a6de9a26)
 
 # tabela de preços.
 ![screencapture-provedor-de-hospedagem-zeta-vercel-app-tabeladeprecos-html-2023-06-13-06_54_14](https://github.com/WilliamSouzaTx/provedor-de-hospedagem/assets/118509267/67c70609-e606-49c0-98a7-ba68e616f809)
