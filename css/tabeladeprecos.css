@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+html{
+    overflow-x: hidden;
+    scroll-padding-top: 4.5rem;
+    scroll-behavior: smooth;
+}
+
+
+/* menu  */
+.navegacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0px;
+    background: #2f86d6;
+    position: fixed;
+}
+
+.navegacao img {
+    margin-left: 155px;
+}
+
+.navegacao ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    margin-right: 155px;
+}
+
+.navegacao ul li a{
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+}
+.navegacao ul li a:hover{
+   color: #23303e;
+}
+
+.logo{
+    margin-right: 200px;
+}
+
+.logo h1{
+    font-size: 32px;
+    color: #000000;
+}
+
+.logo p{
+    font-size: 16px;
+    color: #fff;
+}
+
+
+/* tabela */
+.conteudo-principal {
+    padding: 150px 0px;
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+  
+.conteudo-principal table{
+    margin: auto;
+}
+  
+.celula-escondida {
+    visibility: hidden;
+}
+  
+.celula-cabeçalho {
+    text-align: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #f1f3f7;
+    border-right: 1px solid #f1f3f7;
+    background-color: #f1f3f7;
+}
+  
+.celula-cabeçalho p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #a8a4a4;
+}
+  
+.celula-cabeçalho h2 {
+    font-size: 36px;
+}
+  
+table tbody td {
+    text-align: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #f1f3f7;
+    border-right: 1px solid #f1f3f7;
+}
+  
+.primeira-celula {
+    background-color: #f1f3f7;
+    font-weight: 500;
+    text-align: left;
+}
+  
+.marcador-azul {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    background-color: #2f86d6;
+    border-radius: 100px;
+}
+  
+/* Rodapé */
+footer {
+    background-color: #2f86d6;
+}
+
+.rodape-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.rodape-logo div{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.rodape-logo img {
+    width: 80px;
+    margin-top: 40px;
+}
+
+.rodape-logo p {
+    color: #fff;
+    font-weight: 600;
+}
+
+.container-contatos {
+    text-align: center;
+    margin: 30px;
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.container-copyright {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px 0px;
+    background-color: #f1f3f7;
+}
+
+.container-copyright span {
+    color: #2f86d6;
+}
